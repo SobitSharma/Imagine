@@ -2,7 +2,7 @@
 
 # Features:
  - User authentication with NextAuth
- - Image upload with [ImageKit](https://imagekit.io)
+ - Image upload with [Imagine](https://imagekit.io)
  - Payment processing with Razorpay
  - Product management with CRUD operations
 
@@ -22,7 +22,3 @@
 # Usage:
  1. Run the development server: npm run dev
  2. Open the application in your browser at http://localhost:3000
-
-# Details:
-
-This application is a part of youtube tutorial. You can take this project as a starting point for your own image selling application. I will not be updating this project anymore. Just like my other projects, this project is open source and you can use it as a reference or a template for your own projects.
